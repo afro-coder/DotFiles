@@ -1,0 +1,266 @@
+[
+    [
+        "Gmail",
+        "/opt/google/chrome/google-chrome --profile-directory=Default --app-id=pjkljhegncpnkpknbcohdijeoejaedia"
+    ],
+    [
+        "Chrome Remote Desktop",
+        "/opt/google/chrome/google-chrome --profile-directory=Default --app-id=gbchcmhmhahfdphkhkmpfmihenigjmpp"
+    ],
+    [
+        "YouTube",
+        "/opt/google/chrome/google-chrome --profile-directory=Default --app-id=blpcfgokakmgnkcojhhkbfbldkacnbeo"
+    ],
+    [
+        "Google Drive",
+        "/opt/google/chrome/google-chrome --profile-directory=Default --app-id=apdfllckaahabafndbhieahigkjlhalf"
+    ],
+    [
+        "Docs",
+        "/opt/google/chrome/google-chrome --profile-directory=Default --app-id=aohghmighlieiainnegkcijnfilokake"
+    ],
+    [
+        "Vysor",
+        "/opt/google/chrome/google-chrome --profile-directory=Default --app-id=gidgenkbbabolejbgbpnhbimgjbffefm"
+    ],
+    [
+        "Termite",
+        "termite"
+    ],
+    [
+        "urxvt (client)",
+        "urxvtc"
+    ],
+    [
+        "Qt4 Config ",
+        "qtconfig-qt4"
+    ],
+    [
+        "Lutris",
+        "lutris"
+    ],
+    [
+        "Avahi SSH Server Browser",
+        "bssh"
+    ],
+    [
+        "Character Map",
+        "gucharmap"
+    ],
+    [
+        "ranger",
+        "ranger;"
+    ],
+    [
+        "Desktop Preferences",
+        "pcmanfm --desktop-pref"
+    ],
+    [
+        "GNU Image Manipulation Program",
+        "gimp-2.10"
+    ],
+    [
+        "Firefox",
+        "/usr/lib/firefox/firefox"
+    ],
+    [
+        "File Manager PCManFM",
+        "pcmanfm"
+    ],
+    [
+        "Oracle VM VirtualBox",
+        "VirtualBox"
+    ],
+    [
+        "Qt4 QDbusViewer ",
+        "qdbusviewer-qt4"
+    ],
+    [
+        "Qt V4L2 test Utility",
+        "qv4l2"
+    ],
+    [
+        "MPlayer Media Player",
+        "mplayer"
+    ],
+    [
+        "Qt4 Linguist ",
+        "linguist-qt4"
+    ],
+    [
+        "SUSE Studio Imagewriter",
+        "imagewriter"
+    ],
+    [
+        "Electron",
+        "electron"
+    ],
+    [
+        "Geoclue Demo agent",
+        "/usr/lib/geoclue-2.0/demos/agent"
+    ],
+    [
+        "Access Prompt",
+        "/usr/lib/gcr-prompter"
+    ],
+    [
+        "Manage Printing",
+        "/usr/bin/xdg-open http://localhost:631/"
+    ],
+    [
+        "Vim",
+        "vim;"
+    ],
+    [
+        "Qt Linguist",
+        "linguist"
+    ],
+    [
+        "Atom",
+        "atom"
+    ],
+    [
+        "urxvt",
+        "urxvt"
+    ],
+    [
+        "compton",
+        "compton"
+    ],
+    [
+        "Qt Assistant",
+        "assistant"
+    ],
+    [
+        "nitrogen",
+        "nitrogen"
+    ],
+    [
+        "bomi",
+        "bomi --wake"
+    ],
+    [
+        "Htop",
+        "htop;"
+    ],
+    [
+        "Preferred Applications",
+        "libfm-pref-apps"
+    ],
+    [
+        "Privilege granting",
+        "gksu-properties"
+    ],
+    [
+        "Shortcut Editor",
+        "lxshortcut -i"
+    ],
+    [
+        "View file",
+        "gcr-viewer"
+    ],
+    [
+        "GParted",
+        "gparted"
+    ],
+    [
+        "Google Chrome",
+        "google-chrome-stable"
+    ],
+    [
+        "i3",
+        "i3"
+    ],
+    [
+        "Qt4 Designer",
+        "designer-qt4"
+    ],
+    [
+        "Window Effects",
+        "compton-conf"
+    ],
+    [
+        "Midori",
+        "midori"
+    ],
+    [
+        "Qt4 Assistant ",
+        "assistant-qt4"
+    ],
+    [
+        "Avahi VNC Server Browser",
+        "bvnc"
+    ],
+    [
+        "VLC media player",
+        "vlc --started-from-file"
+    ],
+    [
+        "Firewall Configuration",
+        "gufw"
+    ],
+    [
+        "Avahi Zeroconf Browser",
+        "avahi-discover"
+    ],
+    [
+        "XTerm",
+        "xterm"
+    ],
+    [
+        "Feh",
+        "feh --start-at"
+    ],
+    [
+        "Customize Look and Feel",
+        "lxappearance"
+    ],
+    [
+        "urxvt (tabbed)",
+        "urxvt-tabbed"
+    ],
+    [
+        "Widget Factory",
+        "gtk3-widget-factory"
+    ],
+    [
+        "Qt QDbusViewer ",
+        "qdbusviewer"
+    ],
+    [
+        "Qt Designer",
+        "designer"
+    ],
+    [
+        "Icon Browser",
+        "gtk3-icon-browser"
+    ],
+    [
+        "GTK+ Demo",
+        "gtk3-demo"
+    ],
+    [
+        "Qt V4L2 video capture utility",
+        "qvidcap"
+    ],
+    [
+        "MuPDF",
+        "mupdf"
+    ],
+    [
+        "ClipIt",
+        "clipit"
+    ],
+    [
+        "gVim",
+        "gvim -f"
+    ],
+    [
+        "UXTerm",
+        "uxterm"
+    ],
+    [
+        "Where am I?",
+        "/usr/lib/geoclue-2.0/demos/where-am-i;"
+    ]
+]

@@ -1,0 +1,11 @@
+.termite
+{
+ padding:4px;
+ border:1px solid blue
+}
+.window-frame {
+box-shadow: none;
+margin: 0;
+border:none;
+}
+

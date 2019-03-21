@@ -1,0 +1,22 @@
+#!/bin/bash
+
+#BACKLIGHT_MODE=xbacklight
+
+MIN_VALUE=7
+
+steps=4
+back="$(xbacklight | cut -d '.' -f 1)"
+#back="$back"+1;
+case $BLOCK_BUTTON in
+	# scroll up
+	# raise brighti
+	4) xbacklight -inc $steps >/dev/null ;;
+
+	# scroll down
+	# lower bright
+	
+	5)xbacklight -dec $steps >/dev/null ;;
+esac
+#echo $(xbacklight | cut -d "." -f 1)%
+echo $back%
+echo "#FFFFFF"

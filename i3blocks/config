@@ -1,0 +1,94 @@
+# i3blocks config file
+#
+# Please see man i3blocks for a complete reference!
+# The man page is also hosted at http://vivien.github.io/i3blocks
+#
+# List of valid properties:
+#
+# align
+# color
+# background
+# border
+# command
+# full_text
+# instance
+# interval
+# label
+# min_width
+# name
+# separator
+# separator_block_width
+# short_text
+# signal
+# urgent
+
+# Global properties
+#
+# The top properties below are applied to every block, but can be overridden.
+# Each block command defaults to the script name to avoid boilerplate.
+command=~/.config/i3blocks/scripts/$BLOCK_NAME
+separator_block_width=15
+markup=none
+min_width=1
+
+[time]
+color=#FFFFFF
+label=
+command=date '+ %Y-%m-%d 🕐 %R'
+interval=30
+
+[battery]
+#label=BAT
+label=⚡
+#instance=1
+interval=30
+
+[brightness]
+#full_text=Hello
+label=bat
+label=
+color=#FFFFFF
+#label=brightness
+#instance=xbacklight
+#min_width=Button=? x=y y=x
+command=~/.config/i3blocks/scripts/brightness 
+interval=5
+signal=11
+
+# Volume indicator
+#
+# The first parameter sets the step (and units to display)
+# The second parameter overrides the mixer selection
+# See the script for details.
+[volume]
+label=VOL
+label=♪
+instance=Master
+#instance=PCM
+interval=once
+signal=10
+
+
+
+# Memory usage
+#
+# The type defaults to "mem" if the instance is not specified.
+[memory]
+label=MEM
+separator=true
+interval=30
+
+
+[wifi]
+label=
+instance=wlp3s0
+interval=30
+separator=false
+
+
+[bandwidth]
+instance=wlp3s0
+interval=5
+min_width=70
+separator=false
+

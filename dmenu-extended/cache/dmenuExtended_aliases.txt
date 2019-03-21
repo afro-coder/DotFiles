@@ -1,0 +1,66 @@
+Gmail
+Chrome Remote Desktop
+YouTube
+Google Drive
+Docs
+Vysor
+Termite
+urxvt (client)
+Qt4 Config 
+Lutris
+Avahi SSH Server Browser
+Character Map
+ranger
+Desktop Preferences
+GNU Image Manipulation Program
+Firefox
+File Manager PCManFM
+Oracle VM VirtualBox
+Qt4 QDbusViewer 
+Qt V4L2 test Utility
+MPlayer Media Player
+Qt4 Linguist 
+SUSE Studio Imagewriter
+Electron
+Geoclue Demo agent
+Access Prompt
+Manage Printing
+Vim
+Qt Linguist
+Atom
+urxvt
+compton
+Qt Assistant
+nitrogen
+bomi
+Htop
+Preferred Applications
+Privilege granting
+Shortcut Editor
+View file
+GParted
+Google Chrome
+i3
+Qt4 Designer
+Window Effects
+Midori
+Qt4 Assistant 
+Avahi VNC Server Browser
+VLC media player
+Firewall Configuration
+Avahi Zeroconf Browser
+XTerm
+Feh
+Customize Look and Feel
+urxvt (tabbed)
+Widget Factory
+Qt QDbusViewer 
+Qt Designer
+Icon Browser
+GTK+ Demo
+Qt V4L2 video capture utility
+MuPDF
+ClipIt
+gVim
+UXTerm
+Where am I?
